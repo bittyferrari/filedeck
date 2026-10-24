@@ -3,7 +3,7 @@
 <h1 align="center">FileDeck</h1>
 
 <p align="center">A Windows Explorer-style file manager for macOS.<br>
-Mac 上的檔案總管：Enter 開啟、Backspace 上一頁、F2 改名、⌘X 剪下貼上。</p>
+Mac 上的檔案總管：Enter 開啟、Backspace 上一頁、⌘R 改名、⌘X 剪下貼上。</p>
 
 <p align="center">
   <a href="https://github.com/bittyferrari/filedeck/releases/latest/download/FileDeck.dmg"><b>⬇ Download FileDeck.dmg</b></a> ·
@@ -16,7 +16,7 @@ Mac 上的檔案總管：Enter 開啟、Backspace 上一頁、F2 改名、⌘X �
 
 ## Features
 
-- **Enter** opens folders, files and apps; **Backspace** goes back; **F2** renames (just the name, not the extension)
+- **Enter** opens folders, files and apps; **Backspace** goes back; **⌘R** or **F2** renames (just the name, not the extension)
 - Real **cut & paste** with ⌘X / ⌘V — name clashes keep both, nothing is overwritten
 - **Properties** window (⌥-double-click, ⌥Enter or ⌘I): size, contents count, dates, read-only / hidden / hide extension, default app
 - **Address bar** you can type into: paths, `~/Downloads`, app names, URLs, `\\server\share` (SMB) — with Tab completion
